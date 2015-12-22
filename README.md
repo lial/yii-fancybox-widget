@@ -16,6 +16,7 @@ $this->widget('application.extensions.fancybox.AlFancybox', [
 );
 ```
 
+<img src="yii-fancybox-asdialog.png" />
 
 Стандартное использование: любому элементу задаем класс .fancied, и он будет открывать изображения в виде галлереи (тут для примера подключает хелпер Thumbnails самого фэнсибокса и массив с настройками)
 
@@ -28,6 +29,7 @@ $this->widget('application.extensions.fancybox.AlFancybox', [
 );
 ```
 
+<img src="yii-fancybox.png" />
 
 Подключать виджет вы можете на любых нужных вам страницах, с разными настройками, все ресурсы (стили, скрипты) будут подключены в любом случае, только один раз.
 
